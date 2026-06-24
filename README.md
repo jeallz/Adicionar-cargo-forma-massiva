@@ -20,6 +20,7 @@ Com todas as informações coletadas, abra o código do arquivo `index.js` no se
 TOKEN : `client.login('Seu Token Aqui');`, na ultima linha do código `52`
 
 ID do Servidor : `const GUILD_ID = 'Id do servidor';` na linha `9`
+
 ID do Cargo : `const ROLE_ID = 'Id do cargo que será adicionado';` na linha `10`
 
 ## Execução da aplicação:
