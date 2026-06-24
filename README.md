@@ -32,3 +32,7 @@ Depois de tudo configurado corretamente basta, no mesmo terminal/cmd onde instal
 O código irá começar a ser executado e os membros do seu servidor vão receber o cargo um por um. Em servidores com muitos membros, pode demorar um pouco, já que ele adiciona o cargo em um membro a cada 1 segundo, para evitar que o código quebre no meio do processo por muitas requisições simultâneas.
 
 Basta acompanhar os logs no proprio terminal para saber quais membros receberam o cargo, quantos faltam e quando a aplicação terminar sua execução.
+
+## Imagem demonstrativa:
+
+<img width="1113" height="618" alt="image" src="https://github.com/user-attachments/assets/5162131a-2b2a-4c5f-96f2-0a9c428169ac" />
