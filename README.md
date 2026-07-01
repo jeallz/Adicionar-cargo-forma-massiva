@@ -14,6 +14,8 @@ depois, baixe os arquivos do respositório em sua máquina e abra a pasta onde t
 Acesse o site de desenvolvedores do Discord, crie uma nova aplicação e resgate as seguintes informações:
 `Client_ID` && `Token`
 
+[https://discord.dev](https://discord.dev)
+
 Após isso, obtenha o ID referente ao cargo que deseja adicionar e o servidor que vai ser afetado pela aplicação.
 Com todas as informações coletadas, abra o código do arquivo `index.js` no seu VS Code ou no bloco de notas e substitua as seguintes linhas com as informações obtidas anteriormente:
 
